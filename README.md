@@ -1,2 +1,9 @@
 # Trionic Reading
- A customizable text-emphasizing reading aid prototype
+## Trionic Reading
+
+A customizable text-emphasizing reading aid prototype
+
+### Definitions
+
+### TODO
+See the [TODO.md](TODO.md).
